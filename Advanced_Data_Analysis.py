@@ -26,6 +26,5 @@ def get_members_in_age_range(start_age, end_age):
         cursor.close()
         conn.close()
 
-get_members_in_age_range(25, 30)
 
         
